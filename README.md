@@ -1,7 +1,7 @@
 # OpenIMR
-The PyTorch implementation of OpenIMR. OpenIMR is a method of Open-World Semi-Supervised Learning for Node Classification (ICDE 2024). 
+The PyTorch implementation of OpenIMR.
 
-OpenIMR is proposed for open-world semi-supervised learning on graph data.
+OpenIMR is proposed for open-world semi-supervised learning for node classification (ICDE 2024). 
 
 # Overview
 You can enter the folder `run/` and then run run_ours.sh (run_ours_large.sh) for open-world semi-supervised learning on the Coauthor CS dataset (ogbn-arxiv dataset).
