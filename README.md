@@ -21,7 +21,6 @@ Specifically, the repository is organized as follows:
 * `train_ours_large.py` is used for implementing the pipeline of OpenIMR for large graph datasets.
 
 # Reference
-====
 If you follow our idea in your work, please cite the following paper:
 ```
  @inproceedings{Wang2024OpenIMR,
